@@ -21,7 +21,7 @@ Narrowed down the city_data_df to ideal weather conditions.
 - A max temperature lower than 27 degrees but higher than 21
 - wind speed less than 4.5 m/s
 - Zero Cloudiness
-< br / >
+<br />
 Created a new DataFrame called hotel_df to store the city, country , coordinates, and humidity.
 Used the Geoapify API to find the first hotel located within 10,000 meters of coordinates
 Added the hotel name and the country as additional information in the hover message for each city on the map. 
